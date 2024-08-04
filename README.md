@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning Python and Nest.Js
 - 😄 Pronouns: she/her
 
+## My stack 👩🏼‍💻
+
 <div display=inline-block>
 <br/>
 <img align=center height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -18,9 +20,13 @@
 <img align=center height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
 <img align=center height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 </div>
+</br>
 
-##
+
+## Where to find me 🌍
+
 <div>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/carolina-do-amaral/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/carolinaamfr/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://open.spotify.com/user/222tss5th55rsiim7vcvrsizq?si=01ba22d2cd454399" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
