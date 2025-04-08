@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Carolina, welcome to my profile 🥰
 
-- 🔭 I’m currently working on new projects for my portfolio
-- 🌱 I’m currently learning Python and Nest.Js
+- 🔭 I’m currently working on new projects 
+- 🌱 I’m currently learning Python and Angular
 - 😄 Pronouns: she/her
 
 ## My stack 👩🏼‍💻
@@ -19,6 +19,8 @@
 <img align=center height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
 <img align=center height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
 <img align=center height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img align=center height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 </div>
 </br>
 
