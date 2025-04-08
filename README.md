@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Carolina, welcome to my profile 🥰
 
 - 🔭 I’m currently working on new projects with Angular
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and React Native
 - 😄 Pronouns: she/her
 
 ## My stack 👩🏼‍💻
