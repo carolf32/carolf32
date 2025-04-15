@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Carolina, welcome to my profile 🥰
 
-<img src="https://media1.tenor.com/m/nkYsPDoADwgAAAAd/computer-pixel-art.gif"/>
+<img src="https://media1.tenor.com/m/nkYsPDoADwgAAAAd/computer-pixel-art.gif" width=100%/>
 
 - 🔭 I’m currently working on new projects with Angular
 - 🌱 I’m currently learning Python and React Native
