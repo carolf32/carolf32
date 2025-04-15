@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Carolina, welcome to my profile 🥰
 
-<img src="https://media1.tenor.com/m/nkYsPDoADwgAAAAd/computer-pixel-art.gif" width=100%/>
+<img src="https://media1.tenor.com/m/nkYsPDoADwgAAAAd/computer-pixel-art.gif" />
 
-- 🔭 I’m currently working on new projects with Angular
-- 🌱 I’m currently learning Python and React Native
+- 🔭 Check my projects, feel free to DM me
+- 🌱 I’m currently learning React Native
 - 😄 Pronouns: she/her
 
 ## My stack 👩🏼‍💻
