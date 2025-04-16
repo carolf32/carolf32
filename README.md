@@ -41,4 +41,4 @@
 
 ##
 
-<img src="https://media1.tenor.com/m/nkYsPDoADwgAAAAd/computer-pixel-art.gif" />
+<img src="https://media1.tenor.com/m/nkYsPDoADwgAAAAd/computer-pixel-art.gif" width=400 />
