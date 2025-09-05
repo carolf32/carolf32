@@ -2,7 +2,7 @@
 
 
 - 🔭 Check my projects, feel free to DM me
-- 🌱 Graduating in System's Analysis and Development
+- 🌱 Graduating in System's Analysis and Development and learning Java
 - 😄 Pronouns: she/her
 
 ## My stack 👩🏼‍💻
